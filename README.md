@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm **Debojit Das**  
 
-<!--
-**Debojit-D/Debojit-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Undergraduate Researcher** | **IIT Gandhinagar Robotics Lab**  
+🤖 Passionate about **Bi-Manual Manipulation**, **Grasping Controls**, and **Intelligent Robotic Systems**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **About Me**  
+- 📚 Exploring advanced **robotic manipulation** and **sensor fusion models** for precise state estimation.  
+- 🧠 Deeply interested in **Non-Linear Control** and **Reinforcement Learning** for dynamic robotic behaviors.  
+- 🛠️ Proficient in building robust systems using **ROS**, **MuJoCo**, and **C++**.  
+- 🧩 Constantly learning, experimenting, and refining robotic control architectures.  
+
+---
+
+## 🛠️ **Tech Stack**  
+- 🤖 **Simulation:** MuJoCo, Gazebo  
+- 💻 **Programming:** Python, C++  
+- 🛠️ **Frameworks:** ROS, OpenCV  
+- 📊 **Tools:** MATLAB, Git  
+
+---
+
+## 📫 **Let's Connect!**  
+- [LinkedIn](#)  
+- [Twitter](#)  
+- 📧 [Your Email](#)  
+
+---
+
+Feel free to share more details or tweak anything! 🚀
