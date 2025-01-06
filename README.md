@@ -27,11 +27,21 @@
 
 ---
 
+📄 Note on Bi-Manual Manipulation Repositories
+Some of my repositories related to Bi-Manual Manipulation are currently private. These projects are either:
+
+📝 In Progress for Academic Publication
+🛠️ Under Development in Collaboration with Industry Partners
+If you're interested in exploring these works or discussing potential collaborations, feel free to reach out to me at:
+📧 personal@debojit.in
+
+I'm happy to share insights or discuss opportunities if you're considering me for a role or collaboration. 🚀
+
+---
+
 ## 📫 **Let's Connect!**  
 - [LinkedIn](#)  
 - [Twitter](#)  
 - 📧 [Your Email](#)  
 
 ---
-
-Feel free to share more details or tweak anything! 🚀
