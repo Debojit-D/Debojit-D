@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 **About Me**  
-- 📚 Exploring advanced **robotic manipulation** and **sensor fusion models** for precise state estimation.  
+- 📚 Exploring **robotic manipulation** and **controls** and **learning-based manipulation**.
 - 🧠 Deeply interested in **Non-Linear Control** and **Reinforcement Learning** for dynamic robotic behaviors.  
 - 🛠️ Proficient in building robust systems using **ROS**, **MuJoCo**, and **C++**.  
 - 🧩 Constantly learning, experimenting, and refining robotic control architectures.  
@@ -35,13 +35,6 @@ Some of my repositories related to Bi-Manual Manipulation are currently private.
 If you're interested in exploring these works or discussing potential collaborations, feel free to reach out to me at:
 📧 personal@debojit.in
 
-I'm happy to share insights or discuss opportunities if you're considering me for a role or collaboration. 🚀
-
----
-
-## 📫 **Let's Connect!**  
-- [LinkedIn](#)  
-- [Twitter](#)  
-- 📧 [Your Email](#)  
+I'm happy to share insights or discuss opportunities if you're considering me for a role or collaboration. 🚀 
 
 ---
