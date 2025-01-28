@@ -3,6 +3,7 @@
 🎓 **Undergraduate Researcher** | **IIT Gandhinagar Robotics Lab**  
 🤖 Passionate about **Bi-Manual Manipulation**, **Grasping Controls**, and **Intelligent Robotic Systems**  
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 ---
 
 ## 🚀 **About Me**  
