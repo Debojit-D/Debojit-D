@@ -2,7 +2,6 @@
 
 🔬 **Undergraduate Researcher** | **IIT Gandhinagar Robotics Lab**  
 🎓 **B.Tech - M.Tech Dual Degree** in **Mechanical Engineering** with **Minors in Artificial Intelligence** | 📅 **5th Semester (3rd Year)** @ **IITGN**  
-
 📜 **M.Tech Thesis** | Working on a joint academia-industry project on **Bi-manual Manipulation** with **Addverb Technologies & IITGN**  
 🤖 Passionate about **Bi-Manual Manipulation**, **Grasping**, **Controls**, and **Intelligent Robotic Systems**  
 🤺 Interested in exploring **Whole-Body Manipulation**, **Loco-Manipulation** and **Dextrous Manipulation**
@@ -12,7 +11,6 @@
 ## 🚀 **About Me**  
 - 📚 Exploring **robotic manipulation** and **controls** and **learning-based manipulation**.
 - 🧠 Deeply interested in **Non-Linear Control** and **Reinforcement Learning** for dynamic robotic behaviors.  
-- 🛠️ Proficient in building robust systems using **ROS**, **MuJoCo**, and **C++**.  
 - 🧩 Constantly learning, experimenting, and refining robotic control architectures.  
 
 ---
@@ -23,11 +21,11 @@
 - 🛠️ **Frameworks:** ROS, OpenCV  
 - 📊 **Tools:** MATLAB, Git  
 
-🤖 Robot Hardware Stack
-🦾 Franka Research 3
-🤖 Addverb's Heal and Syncro Robots
-🦿 Orangewood OWL Robot
-🐾 Unitree Go2
+- 🤖 **Robot Hardware Stack**
+- 🦾 Franka Research 3
+- 🤖 Addverb's Heal and Syncro Robots
+- 🦿 Orangewood OWL Robot
+- 🐾 Unitree Go2
 
 ---
 
