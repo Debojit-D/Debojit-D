@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ **Tech Stack** & 🤖 **Robot Hardware Stack**  
+## 🛠️ **Software and Hardware Stack**  
 
 <table>
   <tr>
