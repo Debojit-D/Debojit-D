@@ -20,11 +20,15 @@
 <table>
   <tr>
     <td valign="top">
-      <strong>🛠️ Tech Stack</strong><br><br>
-      - 🤖 <strong>Simulation:</strong> MuJoCo, Gazebo <br>
-      - 💻 <strong>Programming:</strong> Python, C++ <br>
-      - 🛠️ <strong>Frameworks:</strong> ROS, OpenCV <br>
+      <strong>💻 Development & Control Stack</strong><br><br>
+      - 🏗 <strong>Programming:</strong> Python, C++ <br>
+      - ⚙️ <strong>Frameworks:</strong> ROS, OpenCV <br>
       - 📊 <strong>Tools:</strong> MATLAB, Git  
+    </td>
+    <td valign="top">
+      <strong>🖥️ Simulation & Benchmarking Stack</strong><br><br>
+      - 🤖 <strong>Physics Engines:</strong> MuJoCo, Gazebo <br>
+      - 🏗 <strong>Manipulation Frameworks:</strong> Robosuite <br>
     </td>
     <td valign="top">
       <strong>🤖 Robot Hardware Stack</strong><br><br>
@@ -35,6 +39,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ---
