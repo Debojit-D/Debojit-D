@@ -27,8 +27,8 @@
     </td>
     <td valign="top">
       <strong>🖥️ Simulation & Benchmarking Stack</strong><br><br>
-      - 🤖 <strong>Physics Engines:</strong> MuJoCo, Gazebo <br>
-      - 🏗 <strong>Manipulation Frameworks:</strong> Robosuite <br>
+      - 🤖 <strong>Physics Engines:</strong> MuJoCo, Gazebo, Issac Sim <br>
+      - 🏗 <strong>Frameworks:</strong> Robosuite <br>
     </td>
     <td valign="top">
       <strong>🤖 Robot Hardware Stack</strong><br><br>
