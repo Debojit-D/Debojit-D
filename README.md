@@ -15,17 +15,27 @@
 
 ---
 
-## 🛠️ **Tech Stack**  
-- 🤖 **Simulation:** MuJoCo, Gazebo  
-- 💻 **Programming:** Python, C++  
-- 🛠️ **Frameworks:** ROS, OpenCV  
-- 📊 **Tools:** MATLAB, Git  
+## 🛠️ **Tech Stack** & 🤖 **Robot Hardware Stack**  
 
-## 🤖 **Robot Hardware Stack**
-- 🦾 Franka Research 3
-- 🤖 Addverb's Heal and Syncro Robots
-- 🦿 Orangewood OWL Robot
-- 🐾 Unitree Go2
+<table>
+  <tr>
+    <td valign="top">
+      <strong>🛠️ Tech Stack</strong><br><br>
+      - 🤖 <strong>Simulation:</strong> MuJoCo, Gazebo <br>
+      - 💻 <strong>Programming:</strong> Python, C++ <br>
+      - 🛠️ <strong>Frameworks:</strong> ROS, OpenCV <br>
+      - 📊 <strong>Tools:</strong> MATLAB, Git  
+    </td>
+    <td valign="top">
+      <strong>🤖 Robot Hardware Stack</strong><br><br>
+      - 🦾 <strong>Franka Research 3</strong> <br>
+      - 🤖 <strong>Addverb's Heal and Syncro Robots</strong> <br>
+      - 🦿 <strong>Orangewood OWL Robot</strong> <br>
+      - 🐾 <strong>Unitree Go2</strong>  
+    </td>
+  </tr>
+</table>
+
 
 ---
 
