@@ -21,7 +21,7 @@
 - 🛠️ **Frameworks:** ROS, OpenCV  
 - 📊 **Tools:** MATLAB, Git  
 
-- 🤖 **Robot Hardware Stack**
+## 🤖 **Robot Hardware Stack**
 - 🦾 Franka Research 3
 - 🤖 Addverb's Heal and Syncro Robots
 - 🦿 Orangewood OWL Robot
