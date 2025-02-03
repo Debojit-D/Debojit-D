@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Debojit Das**  
 
 🔬 **Undergraduate Researcher** | **IIT Gandhinagar Robotics Lab**  
-🎓 **B.Tech - M.Tech Dual Degree** in **Mechanical Engineering** with **Minors in Artificial Intelligence** | 📅 **5th Semester (3rd Year)** @ **IITGN**  
+🎓 **B.Tech - M.Tech Dual Degree** in **Mechanical Engineering** with **Minors in A.I** | 📅 **5th Semester (3rd Year)** @ **IITGN**  
 📜 **M.Tech Thesis** | Working on a joint academia-industry project on **Bi-manual Manipulation** with **Addverb Technologies & IITGN**  
 🤖 Passionate about **Bi-Manual Manipulation**, **Grasping**, **Controls**, and **Intelligent Robotic Systems**  
 🤺 Interested in exploring **Whole-Body Manipulation**, **Loco-Manipulation** and **Dextrous Manipulation**
