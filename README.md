@@ -1,6 +1,7 @@
 # 👋 Hi, I'm **Debojit Das**  
 
-🎓 **Undergraduate Researcher** | **IIT Gandhinagar Robotics Lab** | B.Tech - M.Tech in Mechanical Engineering with Minors in Artificial Intelligence @ IITGandhinagar
+🔬 **Undergraduate Researcher** | **IIT Gandhinagar Robotics Lab**
+🎓 **B.Tech - M.Tech Dual Degree in Mechanical Engineering with Minors in Artificial Intelligence @ IITGandhinagar**
 🤖 Passionate about **Bi-Manual Manipulation**, **Grasping Controls**, and **Intelligent Robotic Systems**  
 
 ---
