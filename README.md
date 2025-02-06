@@ -22,7 +22,7 @@
     <td valign="top">
       <strong>💻 Development & Control Stack</strong><br><br>
       - 🏗 <strong>Programming:</strong> Python, C++, MATLAB <br>
-      - ⚙️ <strong>Frameworks:</strong> ROS, OpenCV, PyTorch, TensorFlow, NumPy, SciPy, Matplotlotlib <br>
+      - ⚙️ <strong>Frameworks:</strong> ROS, OpenCV, PyTorch, TensorFlow, NumPy, SciPy, Matplotlib <br>
       - 📊 <strong>Tools:</strong> Git, LaTeX  
     </td>
     <td valign="top">
