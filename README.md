@@ -40,8 +40,6 @@
   </tr>
 </table>
 
-
-
 ---
 
 📄 Note on Bi-Manual Manipulation Repositories
