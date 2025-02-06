@@ -21,9 +21,9 @@
   <tr>
     <td valign="top">
       <strong>💻 Development & Control Stack</strong><br><br>
-      - 🏗 <strong>Programming:</strong> Python, C++ <br>
-      - ⚙️ <strong>Frameworks:</strong> ROS, OpenCV <br>
-      - 📊 <strong>Tools:</strong> MATLAB, Git  
+      - 🏗 <strong>Programming:</strong> Python, C++, MATLAB <br>
+      - ⚙️ <strong>Frameworks:</strong> ROS, OpenCV, PyTorch, TensorFlow, NumPy, SciPy, Matplotlotlib <br>
+      - 📊 <strong>Tools:</strong> , Git  
     </td>
     <td valign="top">
       <strong>🖥️ Simulation & Benchmarking Stack</strong><br><br>
