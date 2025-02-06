@@ -23,7 +23,7 @@
       <strong>💻 Development & Control Stack</strong><br><br>
       - 🏗 <strong>Programming:</strong> Python, C++, MATLAB <br>
       - ⚙️ <strong>Frameworks:</strong> ROS, OpenCV, PyTorch, TensorFlow, NumPy, SciPy, Matplotlotlib <br>
-      - 📊 <strong>Tools:</strong> , Git  
+      - 📊 <strong>Tools:</strong> Git, LaTeX  
     </td>
     <td valign="top">
       <strong>🖥️ Simulation & Benchmarking Stack</strong><br><br>
