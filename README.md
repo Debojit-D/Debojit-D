@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Debojit Das**  
+<h1 align="center">Hi there, I'm Debojit Das ✨</h1>
 
 🔬 **Undergraduate Researcher** | **IIT Gandhinagar Robotics Lab**  
 🎓 **B.Tech - M.Tech Dual Degree** in **Mechanical Engineering** with **Minors in A.I** | 📅 **5th Semester (3rd Year)** @ **IITGN**  
