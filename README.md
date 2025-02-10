@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Debojit Das ✨</h1>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Debojit-D.Debojit-D)
+
 🔬 **Undergraduate Researcher** | **IIT Gandhinagar Robotics Lab**  
 🎓 **B.Tech - M.Tech Dual Degree** in **Mechanical Engineering** with **Minors in A.I** | 📅 **5th Semester (3rd Year)** @ **IITGN**  
 📜 **M.Tech Thesis** | Working on a joint academia-industry project on **Bi-manual Manipulation** with **Addverb Technologies & IITGN**  
