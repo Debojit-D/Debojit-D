@@ -43,6 +43,10 @@
 </table>
 
 ---
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Debojit-D&theme=dark)](https://git.io/streak-stats)
+
+---
 
 📄 Note on Bi-Manual Manipulation Repositories
 Some of my repositories related to Bi-Manual Manipulation are currently private. These projects are either:
