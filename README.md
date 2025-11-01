@@ -2,7 +2,9 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Debojit-D.Debojit-D)
 
-🔬 **Undergraduate Researcher** | **IIT Gandhinagar Robotics Lab**  
+Choreographing bimanual robots to move with purpose, where dynamics, control, and learning meet
+
+🔬 **Dual-Degree (B.Tech–M.Tech) Student Researcher, IITGN Robotics Lab (if you want to highlight dual-degree)**
 🎓 **B.Tech - M.Tech Dual Degree** in **Mechanical Engineering** with **Minors in A.I** | 📅 **5th Semester (3rd Year)** @ **IITGN**  
 📜 **M.Tech Thesis** | Working on a joint academia-industry project on **Bi-manual Manipulation** with **Addverb Technologies & IITGN**  
 🤖 Passionate about **Bi-Manual Manipulation**, **Grasping**, **Controls**, and **Intelligent Robotic Systems**  
